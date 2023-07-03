@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Excavation-Work-App-React/static/css/main.fc4b0ea5.css",
+    "main.js": "/Excavation-Work-App-React/static/js/main.f7ca487c.js",
+    "index.html": "/Excavation-Work-App-React/index.html",
+    "main.fc4b0ea5.css.map": "/Excavation-Work-App-React/static/css/main.fc4b0ea5.css.map",
+    "main.f7ca487c.js.map": "/Excavation-Work-App-React/static/js/main.f7ca487c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4b0ea5.css",
+    "static/js/main.f7ca487c.js"
+  ]
+}
